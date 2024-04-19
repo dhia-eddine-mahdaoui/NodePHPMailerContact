@@ -45,6 +45,6 @@ This project implements a contact form that uses PHP with PHPMailer for handling
 6. **Run the application**
    ```bash
     npm run dev
-##Running the Application
-Open your web browser and navigate to http://localhost:3000 to view the application.
-Fill out the form and submit to test email functionality.
+## Running the Application
+  Open your web browser and navigate to http://localhost:3000 to view the application.
+  Fill out the form and submit to test email functionality.
